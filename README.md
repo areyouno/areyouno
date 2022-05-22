@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @areyouno
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on iOS projects
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me at rrocsalev@gmail.com
 
 <!---
