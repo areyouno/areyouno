@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @areyouno
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me at rrocsalev@gmail.com
+- 👋 Hi, I’m Rr
+- 👀 I’m interested in mobile app development (iOS) and backend development (Java)
+- 🌱 I’m currently using Java for work
+- 📫 Reach me at rrocsalev@gmail.com
 
 <!---
 areyouno/areyouno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
